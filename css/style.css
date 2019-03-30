@@ -1,0 +1,157 @@
+.background{
+	background: url(../img/bg1.jpeg)navajowhite;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.container{
+	width: 500px;
+	margin: 10% auto;
+	margin-bottom: 100px;
+	
+}
+.login-section{
+	background-color: #EEF9FB;
+	padding: 10px;
+	border-radius: 40px;
+}
+
+.login-section h2{
+	color: #00000;
+	text-align: center;
+}
+
+.login-section img{
+	width: 72px;
+	height: 8p0x;
+	margin: 0 auto;
+	display: block;
+}
+.login-form{
+	width:80%;
+	height: 29px;
+	padding: 0px 5px;
+	margin-bottom: 10px;
+	margin-left: 45px;
+	
+}
+.btn{
+	background-color: #04A820;
+	padding: 5px 30px;
+	border: 1px solid #161616;
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	box-shadow: 3px 4px 3px #ffff;
+	border-radius: 14px;
+	margin-left: 180px;
+}
+.btn:hover{
+	cursor: pointer;
+	-webkit-transition:0.8s ease;
+	-moz-transition: 0.8s ease;
+	-o-transition: 0.8s ease;
+}
+.link{
+	margin-left: 40%;
+	color: #00000;
+	-webkit-transition:0.8s ease;
+	-moz-transition: 0.8s ease;
+	-o-transition: 0.8s ease;
+}
+.link:hover{
+	color:#04A820; 
+	cursor: pointer;
+}
+
+/*---Register form---*/
+
+
+.register-section{
+	background-color:#EEF9FB;
+	padding: 30px;
+	border-radius: 40px;
+}
+.register-section h2{
+	color: #FF980A;
+	text-align: center;
+}
+.register-form{
+	width:80%;
+	height: 29px;
+	padding: 0px 5px;
+	margin-bottom: 10px;
+	margin-left: 45px;
+}
+.register{
+	background-color: #FF980A;
+	padding: 8px 30px;
+	border: 1px solid #ffff;
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	box-shadow: 3px 4px 3px #ffff;
+	border-radius: 20px;
+	margin-left: 160px;
+}
+.register:hover{
+	cursor: pointer;
+	-webkit-transition:0.8s ease;
+	-moz-transition: 0.8s ease;
+	-o-transition: 0.8s ease;
+}
+
+/*----Reset Passwprd-----*/
+
+.reset-section{
+	background-color: #EEF9FB;
+	border-radius: 40px;
+	padding: 30px;
+}
+.reset-section img{
+	width: 72px;
+	height: 8p0x;
+	margin: 0 auto;
+	display: block;
+}
+
+.reset-section h2{
+	color: #00000;
+	text-align: center;
+}
+.password-reset{
+	width:80%;
+	height: 29px;
+	padding: 0px 5px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+.reset-btn{
+	background-color: #E80CB8;
+	padding: 8px 30px;
+	border: 1px solid #ffff;
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	box-shadow: 3px 4px 3px #ffff;
+	border-radius: 20px;
+	margin-left: 160px;
+	
+}
+.reset-btn:hover{
+	cursor: pointer;
+	-webkit-transition:0.8s ease;
+	-moz-transition: 0.8s ease;
+	-o-transition: 0.8s ease;
+}
+.link-reset{
+	margin-left: 43%;
+	color: #00000;
+	font-size: 20px;
+	-webkit-transition:0.8s ease;
+	-moz-transition: 0.8s ease;
+	-o-transition: 0.8s ease;
+}
+.link-reset:hover{
+	color:#04A820; 
+	cursor: pointer;
+}
